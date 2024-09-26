@@ -66,12 +66,14 @@ For your test set and the RAG systems, you will first need to compile a knowledg
     - Pittsburgh [Symphony](https://www.pittsburghsymphony.org), [Opera](https://pittsburghopera.org), and [Cultural Trust](https://trustarts.org)
     - Pittsburgh Museums ([Carnegie Museums](https://carnegiemuseums.org), [Heinz History Center](https://www.heinzhistorycenter.org)), [The Frick](https://www.thefrickpittsburgh.org), and [more](https://en.wikipedia.org/wiki/List_of_museums_in_Pittsburgh))
     - Food-related events 
-        - [Food Festivals](https://www.visitpittsburgh.com/events-festivals/food-festivals/)
-        - [Picklesburgh](https://www.picklesburgh.com/)
-        - [Pittsburgh Taco Fest](https://www.pghtacofest.com/)
-        - [Pittsburgh Restaurant Week](https://pittsburghrestaurantweek.com/)
-        - [Little Italy Days](https://littleitalydays.com)
-        - [Banana Split Fest](https://bananasplitfest.com)
+        - [Food Festivals](https://www.visitpittsburgh.com/events-festivals/food-festivals) Navigate to the *details* page for each.
+        - [Picklesburgh](https://www.picklesburgh.com)
+        - Event-specific websites:
+            - [Pittsburgh Taco Fest](https://www.pghtacofest.com)
+            - [Pittsburgh Restaurant Week](https://pittsburghrestaurantweek.com)
+            - [Little Italy Days](https://littleitalydays.com)
+            - [Banana Split Fest](https://bananasplitfest.com)
+            - For these sources, you can also be asked questions on the contents found in the navigation bar.
 + Sports (Note that many of these pages also contain upcoming events, also see Wikipedia pages for each. Don't worry about scraping news/scores/recent stats from these sites.)
     - General info ([Visit Pittsburgh](https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/))
     - Pittsburgh [Pirates](https://www.mlb.com/pirates), [Steelers](https://www.steelers.com), and [Penguins](https://www.nhl.com/penguins/)
